@@ -4,7 +4,7 @@ import random
 import openai
 
 # Step 1: Set up your OpenAI API key
-openai.api_key = "your-openai-api-key"  # Replace with your actual OpenAI API key
+openai.api_key = "your-openai-api-key"  # Replace with  actual OpenAI API key
 
 # Step 2: Create a database or use sample JSON data
 def create_db():
